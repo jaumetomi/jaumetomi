@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jaumetomi! I'm 17 and I live in Spain. I'm not serious, it's just my face.
+- 👋 Hi, I’m @jaumetomi! I'm 17 and I live in Spain.
 - 👀 I’m interested in videogames, programming, Pokémon, pixel art, fashion.
 - 🌱 I’m currently learning how to create a videogame!
 - 💞️ I’m looking to collaborate on developing really anything with someone that has the same level as me!(not especially high)
